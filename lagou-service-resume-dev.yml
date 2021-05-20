@@ -1,4 +1,4 @@
 lagou:
-  message: hello world!
+  message: hello world222!
 mysql:
-  url: dev-http://localhost:3306/db100
+  url: dev-http://localhost:3306/db200
